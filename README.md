@@ -1,5 +1,17 @@
 # breadNET Style guide
 
+<!-- TOC -->
+* [breadNET Style guide](#breadnet-style-guide)
+  * [What is this](#what-is-this)
+  * [Specifications](#specifications-)
+    * [How to type `breadNET`](#how-to-type-breadnet)
+    * [Font](#font)
+    * [Background color](#background-color)
+    * [Site header colors](#site-header-colors)
+    * [Site default view mode](#site-default-view-mode)
+  * [Logo assets](#logo-assets)
+<!-- TOC -->
+
 ## What is this
 
 This Repository acts as the style guide for breadNET
